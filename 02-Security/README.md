@@ -36,8 +36,3 @@ This module provisions core AWS networking and security infrastructure using **T
 
 ---
 
-## 🚀 How to Run
-
-### 1. Navigate to the Folder
-```bash
-cd 02-Security
