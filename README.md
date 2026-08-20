@@ -25,16 +25,10 @@ To create reusable cloud infrastructure with Infrastructure as Code.
 - outputs.tf
 - terraform.tfvars
 
-## Architecture
-Add your diagram here.
 
 ## How to Run
 terraform init
 terraform plan
 terraform apply
 
-## Outputs
-List the important outputs here.
 
-## Learning Outcome
-What you learned from this project.
