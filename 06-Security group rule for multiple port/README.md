@@ -35,12 +35,12 @@ The configuration consists of two primary components:
 
 2. **Review Execution Plan:**
    ```bash
-   terraform plan -var='ip=192.168.1.0/24'
+   terraform plan
    ```
 
 3. **Apply Changes:**
    ```bash
-   terraform apply -var='ip=192.168.1.0/24'
+   terraform apply
    ```
 
 4. **Clean Up Resources:**
