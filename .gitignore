@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 .terraform/
 **/.terraform/
 *.tfstate
 *.tfstate.backup
+
+>>>>>>> master
